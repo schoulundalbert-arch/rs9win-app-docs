@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://schoulundalbert-arch.github.io/rs9win-app-docs/sitemap.xml
